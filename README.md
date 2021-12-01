@@ -1,4 +1,4 @@
-Skin Cancer (Melanoma) Classification Proposal
+Skin Cancer (Melanoma) Deep Learning Proposal
 ===================================
 
 ## Introduction
