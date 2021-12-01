@@ -1,4 +1,4 @@
-## Skin Cancer (Melanoma) Classification MVP
+## Skin Cancer (Melanoma) Deep Learning MVP
 
 
 
