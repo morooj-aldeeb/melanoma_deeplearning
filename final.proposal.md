@@ -99,8 +99,8 @@ Methodology
 
 ## Results
 
-1. Transfer Learning Models' Performances (7 classes)
-=====================================================
+Transfer Learning Models' Performances (7 classes)
+==================================================
 
 |Pretrained                        |Accuracy Train               |Accuracy Validation|
 |----------------------------------|-----------------------------|-------------------|
@@ -111,8 +111,8 @@ Methodology
 |DenseNet                          |0.661                        |0.693              |
 
 
-2. Transfer Learning Models' Performances (2 classes)
-=====================================================
+Transfer Learning Models' Performances (2 classes)
+==================================================
 
 |Pretrained                        |Accuracy Train               |Accuracy Validation|
 |----------------------------------|-----------------------------|-------------------|
